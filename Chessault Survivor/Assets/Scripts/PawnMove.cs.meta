@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36d58c4d9a5b5394d880cffe7ca7f9db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PawnDown: {fileID: 21300000, guid: bb1730d796491a147b59167df272858f, type: 3}
+  - PawnUp: {fileID: 21300002, guid: bb1730d796491a147b59167df272858f, type: 3}
+  - PawnLeft: {fileID: 21300016, guid: bb1730d796491a147b59167df272858f, type: 3}
+  - PawnRight: {fileID: 21300014, guid: bb1730d796491a147b59167df272858f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

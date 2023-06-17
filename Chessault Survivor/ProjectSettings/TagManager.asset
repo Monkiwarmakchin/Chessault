@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ToySoldier
+  - Piece
+  - Laser
+  - Spawn
+  - Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spawns
+    uniqueID: 4145450147
+    locked: 0
+  - name: Tablero
+    uniqueID: 87393031
+    locked: 0
+  - name: Battlefield
+    uniqueID: 2138804373
+    locked: 0
+  - name: Laser
+    uniqueID: 3159071477
+    locked: 0
+  - name: Menus
+    uniqueID: 989239147
+    locked: 0
+  - name: Logo
+    uniqueID: 3678985193
+    locked: 0
